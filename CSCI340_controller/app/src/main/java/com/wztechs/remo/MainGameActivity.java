@@ -100,10 +100,10 @@ public class MainGameActivity extends AppCompatActivity implements ConnectionLis
     /* Adds the appropriate number of card/image resources to cardResources list */
     private void setCardResources() {
         // Add all the face-up cards
-        cardResources.add(new CardResource(0, R.drawable.card_13));
-        cardResources.add(new CardResource(1, R.drawable.card_15));
-        cardResources.add(new CardResource(2, R.drawable.card_9));
-        cardResources.add(new CardResource(3, R.drawable.card_12));
+        cardResources.add(new CardResource(0, R.drawable.heart));
+        cardResources.add(new CardResource(1, R.drawable.lightning));
+        cardResources.add(new CardResource(2, R.drawable.rage));
+        cardResources.add(new CardResource(3, R.drawable.poison));
 
     }
 

@@ -7,8 +7,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e3b58e0-85bd-476e-a7fd-33fa83eec9eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSCI340_controller/.idea/deploymentTargetDropDown.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/java/com/wztechs/remo/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/java/com/wztechs/remo/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/ic_launcher-playstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/drawable/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/drawable/lightning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/drawable/poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/drawable/rage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSCI340_controller/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/java/com/wztechs/remo/MainGameActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/java/com/wztechs/remo/MainGameActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSCI340_controller/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,21 +110,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1650194351171">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1650290997867">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1650194351171" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1650194351171">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1650290997867" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1650290997867">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1650194351171" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1650194351171">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1650290997867" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1650290997867">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1650194351171" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1650194351171">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1650290997867" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1650290997867">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1650194351171" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1650290997867" />
   </component>
 </project>
