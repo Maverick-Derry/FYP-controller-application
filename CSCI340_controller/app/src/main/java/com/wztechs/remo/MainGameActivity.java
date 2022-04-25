@@ -101,8 +101,8 @@ public class MainGameActivity extends AppCompatActivity implements ConnectionLis
     private void setCardResources() {
         // Add all the face-up cards
         cardResources.add(new CardResource(0, R.drawable.heart));
-        cardResources.add(new CardResource(1, R.drawable.lightning));
-        cardResources.add(new CardResource(2, R.drawable.rage));
+        cardResources.add(new CardResource(1, R.drawable.rage));
+        cardResources.add(new CardResource(2, R.drawable.lightning));
         cardResources.add(new CardResource(3, R.drawable.poison));
 
     }
@@ -235,7 +235,7 @@ public class MainGameActivity extends AppCompatActivity implements ConnectionLis
                 conn.sendAction(KEY_INSERT, String.valueOf(card.cardNumber));
 
                 // use handler to update UI
-                handler.postDelayed(updUI, 250);
+                handler.postDelayed(updUI, 10000);
             }
         }, 400);
     }
